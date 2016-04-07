@@ -1,0 +1,13 @@
+.rojo {background-color: #fa1808; }
+.amarillo {background-color: #e5fa08; }
+.cian {background-color: #5a74e4; }
+
+.tamano {
+	width: 100px;
+	height: 60px;
+}
+
+.contenedor {
+	border: 1px solid #5a74e4;
+
+}
