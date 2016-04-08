@@ -5,9 +5,19 @@
 .tamano {
 	width: 100px;
 	height: 60px;
+	float: right;
 }
 
 .contenedor {
 	border: 1px solid #5a74e4;
 
+}
+
+.clearfix:before, .clearfix:after{
+	content: " ";
+	display: table;
+}
+
+.clearfix:after{
+	clear:both;
 }
